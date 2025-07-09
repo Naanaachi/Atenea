@@ -1,0 +1,47 @@
+Políticas de Privacidad para el Bot de Discord Atenea
+
+¡Hola! Tu privacidad es importante para nosotros. Estas Políticas de Privacidad explican qué información puede recopilar nuestro bot de Discord Atenea y cómo la usa. Al usar el bot, aceptas estas políticas.
+
+1. Información que Recopilamos
+
+Dado que este bot es un proyecto personal, está diseñado para ser lo más respetuoso posible con la privacidad. En general, Atenea no recopila ni almacena información personal identificable sobre los usuarios.
+
+Sin embargo, el bot podría procesar cierta información no identificable para funcionar correctamente. Esto puede incluir:
+
+    IDs de Usuario y Canal (Discord): El bot necesita los identificadores únicos de usuarios, servidores (guilds) y canales para responder a comandos y enviar mensajes. Estos IDs no revelan tu nombre real ni ninguna otra información personal.
+
+    Contenido de Comandos: Para procesar un comando (por ejemplo, si le pides al bot que busque algo), el bot debe leer el comando que escribes. Este contenido se procesa en el momento y no se almacena de forma permanente.
+
+    Datos de Uso Anónimos (Opcional, si aplica): Si el bot utiliza alguna función de análisis (poco probable para un proyecto escolar), esta recopilaría datos anónimos sobre cómo se usa el bot (por ejemplo, cuántas veces se usa un comando específico). Estos datos no te identifican personalmente. En la mayoría de los casos de proyectos escolares, esto no aplica.
+
+2. Cómo Usamos la Información
+
+La poca información que el bot procesa se utiliza únicamente para:
+
+    Habilitar las funciones del bot: Procesar tus comandos y responder a tus solicitudes.
+
+    Mejorar el rendimiento del bot: (Si aplica, a través de datos de uso anónimos) Para entender qué funciones se usan más y cómo optimizarlas.
+
+3. Almacenamiento y Compartición de Datos
+
+    No Almacenamiento Permanente: Como se mencionó, la información personal o sensible no se almacena de forma permanente en ninguna base de datos asociada al bot.
+
+    No Compartición con Terceros: La poca información que el bot procesa no se comparte, vende ni alquila a terceros. Este bot es para uso exclusivo del proyecto escolar.
+
+4. Seguridad de los Datos
+
+Hemos tomado medidas razonables para proteger la información que procesa el bot contra accesos no autorizados o divulgación. Sin embargo, recuerda que ninguna transmisión de datos por internet es 100% segura.
+
+5. Tus Derechos
+
+Dado que el bot no almacena información personal, no hay datos personales que puedas solicitar, corregir o eliminar directamente a través del bot. Para cualquier preocupación relacionada con tu privacidad en Discord, consulta las políticas de privacidad de Discord.
+
+6. Cambios a Estas Políticas
+
+Podemos actualizar estas Políticas de Privacidad en el futuro. Cualquier cambio se publicará aquí. Te recomendamos revisar estas políticas periódicamente.
+
+7. Contacto
+
+Si tienes preguntas o inquietudes sobre estas Políticas de Privacidad, por favor, contacta al creador del bot dentro del servidor de Discord.
+
+Al usar el bot Atenea, confirmas que has leído, entendido y aceptado estas Políticas de Privacidad.
